@@ -1,0 +1,22 @@
+.blog-preview {
+    padding: 10px 16px;
+    margin: 20px 0; 
+    border-bottom: solid 1px #353535;
+    transition: ease-in-out .1s;
+    border-radius: 5px
+}
+
+.blog-preview:hover {
+    background-color: #353535;
+    box-shadow: 1px 3px 5px #ffffff22;
+    cursor: pointer;
+}
+
+.blog-preview h3 {
+    color: #F1356D;
+    margin-bottom: 8px;
+}
+
+.blog-preview a {
+    text-decoration: none;
+}

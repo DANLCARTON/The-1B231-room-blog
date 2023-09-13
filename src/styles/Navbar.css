@@ -1,0 +1,28 @@
+.db-navbar {
+    padding: 20px;
+    display:flex;
+    align-items: center;
+    max-width: 960px;
+    margin: 0 auto;
+    border-bottom: 1px solid #353535;
+}
+
+.db-navbar h1 {
+    color: #F1356D
+}
+
+.db-navbar .db-links {
+    margin-left: auto;
+}
+
+.db-navbar a {
+    margin-left: 16px;
+    text-decoration: none;
+    padding: 6px;
+    color: white;
+    transition: ease-in-out .2s;
+}
+
+.db-navbar a:hover {
+    color: #F1356D
+}
